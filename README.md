@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Support Chatbot](https://github.com/LuisGTZB/ChatBot/tree/master/Chatbot)
 
-- 🌱 I’m currently learning **Tensorflow, Tflearn, NLTK**
+- 🌱 I’m currently learning **Tensorflow, Tflearn, NLTK, Flutter**
 
 - 🤝 I’m looking for help with [Data analysis](https://github.com/LuisGTZB/AP_Python/tree/master/Analisis_datos)
 
