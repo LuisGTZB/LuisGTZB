@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Gutierrez</h1>
-<h3 align="center">systems student at Universidad de Guanajuato</h3>
+<h3 align="center">Trying to become a data scientist</h3>
 
-- 🔭 I’m currently working on [Support Chatbot](https://github.com/LuisGTZB/ChatBot/tree/master/Chatbot)
+- 🔭 I’m currently working on Data Science
 
 - 🌱 I’m currently learning **Tensorflow, Tflearn, NLTK, Flutter**
 
