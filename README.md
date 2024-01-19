@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **josegbluis@hotmail.com**
 
-- ⚡ Fun fact **I'm very curious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
